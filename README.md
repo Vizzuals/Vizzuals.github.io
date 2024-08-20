@@ -10,5 +10,5 @@ Brewster Curry is a student in UConn's MSDS program.
 *italics*
 
 To make a link:
-[click here for my github page https://github.com/Vizzuals]
+[click here for my github page](https://github.com/Vizzuals)
 
