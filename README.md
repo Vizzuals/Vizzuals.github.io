@@ -1,5 +1,7 @@
 # Brewster Curry's Home Page
 
+<img src='Unknown' width='300'>
+
 Brewster Curry is a student in UConn's MSDS program.
 
 1. # gives a big header
